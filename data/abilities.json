@@ -117,7 +117,7 @@
             "id": "5317"
         },
         {
-            "name": "shadow_shaman_shackles",
+            "name": "shadowshaman_shackles",
             "id": "5080"
         },
         {
@@ -125,7 +125,7 @@
             "id": "5440"
         },
         {
-            "name": "shadow_demon_shadow_poison_release",
+            "name": "shadowdemon_shadow_poison_release",
             "id": "5424"
         },
         {
@@ -193,7 +193,7 @@
             "id": "5104"
         },
         {
-            "name": "nevermore_dark_lord",
+            "name": "shadowfiend_dark_lord",
             "id": "5063"
         },
         {
@@ -357,7 +357,7 @@
             "id": "5177"
         },
         {
-            "name": "shadow_shaman_mass_serpent_ward",
+            "name": "shadowshaman_mass_serpent_ward",
             "id": "5081"
         },
         {
@@ -593,7 +593,7 @@
             "id": "5109"
         },
         {
-            "name": "shadow_demon_demonic_purge",
+            "name": "shadowdemon_demonic_purge",
             "id": "5425"
         },
         {
@@ -693,7 +693,7 @@
             "id": "5287"
         },
         {
-            "name": "nevermore_requiem",
+            "name": "shadowfiend_requiem",
             "id": "5064"
         },
         {
@@ -793,7 +793,7 @@
             "id": "5412"
         },
         {
-            "name": "shadow_shaman_voodoo",
+            "name": "shadowshaman_voodoo",
             "id": "5079"
         },
         {
@@ -1141,7 +1141,7 @@
             "id": "5237"
         },
         {
-            "name": "nevermore_necromastery",
+            "name": "shadowfiend_necromastery",
             "id": "5062"
         },
         {
@@ -1345,7 +1345,7 @@
             "id": "5065"
         },
         {
-            "name": "nevermore_shadowraze1",
+            "name": "shadowfiend_shadowraze1",
             "id": "5059"
         },
         {
@@ -1353,11 +1353,11 @@
             "id": "5208"
         },
         {
-            "name": "nevermore_shadowraze2",
+            "name": "shadowfiend_shadowraze2",
             "id": "5060"
         },
         {
-            "name": "nevermore_shadowraze3",
+            "name": "shadowfiend_shadowraze3",
             "id": "5061"
         },
         {
@@ -1493,7 +1493,7 @@
             "id": "5263"
         },
         {
-            "name": "shadow_demon_shadow_poison",
+            "name": "shadowdemon_shadow_poison",
             "id": "5423"
         },
         {
@@ -1521,7 +1521,7 @@
             "id": "5308"
         },
         {
-            "name": "shadow_shaman_ether_shock",
+            "name": "shadowshaman_ether_shock",
             "id": "5078"
         },
         {
@@ -1665,7 +1665,7 @@
             "id": "5383"
         },
         {
-            "name": "shadow_demon_soul_catcher",
+            "name": "shadowdemon_soul_catcher",
             "id": "5422"
         },
         {
