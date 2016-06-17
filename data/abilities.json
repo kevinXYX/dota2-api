@@ -1953,32 +1953,20 @@
             "id": "5483"
         },
         {
-            "name": "wisp_tether",
+            "name": "io_tether",
             "id": "5485"
         },
         {
-            "name": "wisp_spirits",
+            "name": "io_spirits",
             "id": "5486"
         },
         {
-            "name": "wisp_overcharge",
+            "name": "io_overcharge",
             "id": "5487"
         },
         {
-            "name": "wisp_relocate",
+            "name": "io_relocate",
             "id": "5488"
-        },
-        {
-            "name": "wisp_tether_break",
-            "id": "5489"
-        },
-        {
-            "name": "wisp_spirits_in",
-            "id": "5490"
-        },
-        {
-            "name": "wisp_spirits_out",
-            "id": "5493"
         },
         {
             "name": "bristleback_viscous_nasal_goo",
