@@ -157,7 +157,7 @@
             "id": "5015"
         },
         {
-            "name": "obsidian_destroyer_astral_imprisonment",
+            "name": "outworld_devourer_astral_imprisonment",
             "id": "5392"
         },
         {
@@ -289,7 +289,7 @@
             "id": "5153"
         },
         {
-            "name": "rattletrap_rocket_flare",
+            "name": "clockwork_rocket_flare",
             "id": "5239"
         },
         {
@@ -437,7 +437,7 @@
             "id": "5221"
         },
         {
-            "name": "furion_wrath_of_nature",
+            "name": "naturesprophet_wrath_of_nature",
             "id": "5248"
         },
         {
@@ -569,7 +569,7 @@
             "id": "5349"
         },
         {
-            "name": "obsidian_destroyer_arcane_orb",
+            "name": "outworld_devourer_arcane_orb",
             "id": "5391"
         },
         {
@@ -921,7 +921,7 @@
             "id": "5019"
         },
         {
-            "name": "rattletrap_power_cogs",
+            "name": "clockwork_power_cogs",
             "id": "5238"
         },
         {
@@ -949,7 +949,7 @@
             "id": "5033"
         },
         {
-            "name": "furion_teleportation",
+            "name": "naturesprophet_teleportation",
             "id": "5246"
         },
         {
@@ -1053,7 +1053,7 @@
             "id": "5030"
         },
         {
-            "name": "obsidian_destroyer_essence_aura",
+            "name": "outworld_devourer_essence_aura",
             "id": "5393"
         },
         {
@@ -1137,7 +1137,7 @@
             "id": "5324"
         },
         {
-            "name": "rattletrap_battery_assault",
+            "name": "clockwork_battery_assault",
             "id": "5237"
         },
         {
@@ -1277,7 +1277,7 @@
             "id": "5154"
         },
         {
-            "name": "rattletrap_hookshot",
+            "name": "clockwork_hookshot",
             "id": "5240"
         },
         {
@@ -1313,7 +1313,7 @@
             "id": "5334"
         },
         {
-            "name": "furion_force_of_nature",
+            "name": "naturesprophet_force_of_nature",
             "id": "5247"
         },
         {
@@ -1617,7 +1617,7 @@
             "id": "5202"
         },
         {
-            "name": "furion_sprout",
+            "name": "naturesprophet_sprout",
             "id": "5245"
         },
         {
@@ -1733,7 +1733,7 @@
             "id": "5255"
         },
         {
-            "name": "obsidian_destroyer_sanity_eclipse",
+            "name": "outworld_devourer_sanity_eclipse",
             "id": "5394"
         },
         {
@@ -1857,23 +1857,23 @@
             "id": "5521"
         },
         {
-            "name": "shredder_whirling_death",
+            "name": "timbersaw_whirling_death",
             "id": "5524"
         },
         {
-            "name": "shredder_timber_chain",
+            "name": "timbersaw_timber_chain",
             "id": "5525"
         },
         {
-            "name": "shredder_reactive_armor",
+            "name": "timbersaw_reactive_armor",
             "id": "5526"
         },
         {
-            "name": "shredder_chakram",
+            "name": "timbersaw_chakram",
             "id": "5527"
         },
         {
-            "name": "shredder_return_chakram",
+            "name": "timbersaw_return_chakram",
             "id": "5528"
         },
         {
