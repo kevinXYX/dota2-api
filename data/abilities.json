@@ -1937,19 +1937,19 @@
             "id": "5483"
         },
         {
-            "name": "io_tether",
+            "name": "wisp_tether",
             "id": "5485"
         },
         {
-            "name": "io_spirits",
+            "name": "wisp_spirits",
             "id": "5486"
         },
         {
-            "name": "io_overcharge",
+            "name": "wisp_overcharge",
             "id": "5487"
         },
         {
-            "name": "io_relocate",
+            "name": "wisp_relocate",
             "id": "5488"
         },
         {
