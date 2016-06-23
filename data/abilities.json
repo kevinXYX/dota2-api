@@ -1,7 +1,7 @@
 {
     "abilities": [
         {
-            "name": "centaur_khan_war_stomp",
+            "name": "centaur_warrunner_war_stomp",
             "id": "5295"
         },
         {
@@ -501,7 +501,7 @@
             "id": "5138"
         },
         {
-            "name": "centaur_khan_endurance_aura",
+            "name": "centaur_warrunner_endurance_aura",
             "id": "5294"
         },
         {
@@ -1777,11 +1777,11 @@
             "id": "5512"
         },
         {
-            "name": "centaur_hoof_stomp",
+            "name": "centaur_warrunner_stomp",
             "id": "5514"
         },
         {
-            "name": "centaur_double_edge",
+            "name": "centaur_warrunner_edge",
             "id": "5515"
         },
         {
@@ -1789,7 +1789,7 @@
             "id": "5516"
         },
         {
-            "name": "centaur_stampede",
+            "name": "centaur_warrunner_stampede",
             "id": "5517"
         },
         {
